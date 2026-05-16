@@ -40,7 +40,7 @@ As an Aerospace Engineering student, I am bridging the gap between flight mechan
 
 ### 📫 Connect with Me
 - **GitHub:** https://github.com/tanmaytiwari37
-- **Portfolio:** https://tanmay-tiwari-portfolio.netlify.app
+- **Portfolio:** https://tanmaytiwari.pages.dev/
 - **Focus:** Aerospace Engineering | Python | Data Science
 
 *"The Alchemist taught me that when you want something, all the universe conspires in helping you to achieve it."*
