@@ -39,7 +39,7 @@ As an Aerospace Engineering student, I am bridging the gap between flight mechan
 ---
 
 ### 📫 Connect with Me
-- **GitHub:** https://github.com/iamtanmay37
+- **GitHub:** https://github.com/tanmaytiwari37
 - **Portfolio:** https://tanmay-tiwari-portfolio.netlify.app
 - **Focus:** Aerospace Engineering | Python | Data Science
 
